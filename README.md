@@ -1,5 +1,3 @@
-Certainly! Here's a simple Git README cheatsheet for achieving mobile responsiveness using CSS media queries:
-
 # Mobile Responsiveness Cheatsheet
 
 ## Introduction
