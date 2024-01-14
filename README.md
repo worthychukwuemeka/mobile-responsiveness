@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to this cheatsheet on how to make your website mobile-responsive using CSS media queries. Ensuring your website looks great on various devices is crucial for a positive user experience. Let's get started!
+Welcome to day 28! In this cheatsheet, I have put together tips and tricks on how to make your website mobile-responsive using CSS media queries. Ensuring your website looks great on various devices is crucial for a positive user experience. Let's get started!
 
 ## CSS Media Queries
 
